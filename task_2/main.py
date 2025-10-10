@@ -6,5 +6,5 @@ apples_per_student = k // n
 #Расчет остатка яблок в корзине
 apples_left = k % n 
 #Вывод результата
-print(apples_per_student)
-print(apples_left)
+print(apples_per_student) #Количество школьников 
+print(apples_left) #Количество яблок
